@@ -1,5 +1,4 @@
 # DD-WRT-Router-DatasEnumeration-PoC
-DD-WRT-Router-DatasEnumeration-PoC
 
 A simple datas enumeration PoC on DD-WRT Router web-app interface.
 
